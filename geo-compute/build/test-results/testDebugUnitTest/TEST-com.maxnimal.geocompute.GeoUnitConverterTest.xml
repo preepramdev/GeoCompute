@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.maxnimal.geocompute.GeoUnitConverterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-06-01T18:01:23" hostname="PRAMs-MacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="test conversion to kilometers" classname="com.maxnimal.geocompute.GeoUnitConverterTest" time="0.0"/>
+  <testcase name="test conversion to miles" classname="com.maxnimal.geocompute.GeoUnitConverterTest" time="0.001"/>
+  <testcase name="test toReadableDistance above 1km" classname="com.maxnimal.geocompute.GeoUnitConverterTest" time="0.008"/>
+  <testcase name="test toReadableDistance below 1km" classname="com.maxnimal.geocompute.GeoUnitConverterTest" time="0.001"/>
+  <testcase name="test toReadableDistance with custom digits" classname="com.maxnimal.geocompute.GeoUnitConverterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

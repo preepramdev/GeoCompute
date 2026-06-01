@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_foreground
+id btnCalculate
+id etCenterLat
+id etCenterLon
+id etRadius
+id etTargetLat
+id etTargetLon
+id resultCard
+id tabLayout
+id tvDistanceM
+id tvDistanceMiles
+id tvStatus
+id viewPager
+layout activity_main
+layout fragment_xml_layout
+mipmap ic_launcher
+mipmap ic_launcher_round

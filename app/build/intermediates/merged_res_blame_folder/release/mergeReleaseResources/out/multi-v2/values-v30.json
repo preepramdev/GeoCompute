@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.maxnimal.geocompute.sample.app-mergeReleaseResources-55:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/pram/.gradle/caches/8.10.2/transforms/d52e2c6620e6e8f9433a4250137c2133/transformed/jetified-material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
