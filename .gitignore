@@ -1,7 +1,26 @@
-.gradle
-/build
-/geo-radius-checker/build
+# Build artifacts
+**/build/
+.gradle/
+
+# Android Studio / IntelliJ
+.idea/
 *.iml
-.idea
+*.iws
+*.ipr
 local.properties
 .DS_Store
+
+# Generated
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aar
+
+# User-specific
+.navigation/
+capture.png
+output.json
+
+# Log files
+*.log
