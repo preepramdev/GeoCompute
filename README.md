@@ -17,11 +17,24 @@ A lightweight, production-ready Android library for high-precision geofencing an
 
 ## 📦 Installation
 
-Add the library to your `build.gradle.kts`:
+### 1. Add the JitPack repository to your `settings.gradle.kts`:
+
+```kotlin
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url = uri("https://jitpack.io") }
+    }
+}
+```
+
+### 2. Add the dependency to your module's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation(project(":geo-compute"))
+    implementation("com.github.preepramdev:GeoCompute:1.0.0")
 }
 ```
 
